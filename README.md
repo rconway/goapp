@@ -1,0 +1,2 @@
+# goapp
+Generic Go application
